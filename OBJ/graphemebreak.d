@@ -1,0 +1,10 @@
+..\obj\graphemebreak.o: ..\awtk\3rd\libunibreak\graphemebreak.c
+..\obj\graphemebreak.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\graphemebreak.o: ..\awtk\3rd\libunibreak\graphemebreak.h
+..\obj\graphemebreak.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\graphemebreak.o: ..\awtk\3rd\libunibreak\unibreakbase.h
+..\obj\graphemebreak.o: ..\awtk\3rd\libunibreak\graphemebreakdata.inc
+..\obj\graphemebreak.o: ..\awtk\3rd\libunibreak\graphemebreakdef.h
+..\obj\graphemebreak.o: ..\awtk\3rd\libunibreak\unibreakdef.h
+..\obj\graphemebreak.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\graphemebreak.o: ..\awtk\3rd\libunibreak\emojidef.h

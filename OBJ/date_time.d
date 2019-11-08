@@ -1,0 +1,13 @@
+..\obj\date_time.o: ..\awtk\src\tkc\date_time.c
+..\obj\date_time.o: ..\awtk\src\tkc/mem.h
+..\obj\date_time.o: ..\awtk\src\tkc/types_def.h
+..\obj\date_time.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\date_time.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\date_time.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\date_time.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\date_time.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\date_time.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\date_time.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\date_time.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\date_time.o: ..\awtk-port\awtk_config.h
+..\obj\date_time.o: ..\awtk\src\tkc/date_time.h

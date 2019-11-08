@@ -1,0 +1,13 @@
+..\obj\clip_board.o: ..\awtk\src\base\clip_board.c
+..\obj\clip_board.o: ..\awtk\src\base/clip_board.h
+..\obj\clip_board.o: ..\awtk\src\base/types_def.h
+..\obj\clip_board.o: ..\awtk\src\tkc/types_def.h
+..\obj\clip_board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\clip_board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\clip_board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\clip_board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\clip_board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\clip_board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\clip_board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\clip_board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\clip_board.o: ..\awtk-port\awtk_config.h

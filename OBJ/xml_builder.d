@@ -1,0 +1,12 @@
+..\obj\xml_builder.o: ..\awtk\src\xml\xml_builder.c
+..\obj\xml_builder.o: ..\awtk\src\xml/xml_builder.h
+..\obj\xml_builder.o: ..\awtk\src\tkc/types_def.h
+..\obj\xml_builder.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\xml_builder.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\xml_builder.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\xml_builder.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\xml_builder.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\xml_builder.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\xml_builder.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\xml_builder.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\xml_builder.o: ..\awtk-port\awtk_config.h

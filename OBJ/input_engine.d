@@ -1,0 +1,16 @@
+..\obj\input_engine.o: ..\awtk\src\base\input_engine.c
+..\obj\input_engine.o: ..\awtk\src\base/keys.h
+..\obj\input_engine.o: ..\awtk\src\base/types_def.h
+..\obj\input_engine.o: ..\awtk\src\tkc/types_def.h
+..\obj\input_engine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\input_engine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\input_engine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\input_engine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\input_engine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\input_engine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\input_engine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\input_engine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\input_engine.o: ..\awtk-port\awtk_config.h
+..\obj\input_engine.o: ..\awtk\src\base/input_engine.h
+..\obj\input_engine.o: ..\awtk\src\tkc/str.h
+..\obj\input_engine.o: ..\awtk\src\tkc/value.h

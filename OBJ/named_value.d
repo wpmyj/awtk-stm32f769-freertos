@@ -1,0 +1,17 @@
+..\obj\named_value.o: ..\awtk\src\tkc\named_value.c
+..\obj\named_value.o: ..\awtk\src\tkc/mem.h
+..\obj\named_value.o: ..\awtk\src\tkc/types_def.h
+..\obj\named_value.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\named_value.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\named_value.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\named_value.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\named_value.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\named_value.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\named_value.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\named_value.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\named_value.o: ..\awtk-port\awtk_config.h
+..\obj\named_value.o: ..\awtk\src\tkc/utils.h
+..\obj\named_value.o: ..\awtk\src\tkc/str.h
+..\obj\named_value.o: ..\awtk\src\tkc/value.h
+..\obj\named_value.o: ..\awtk\src\tkc/named_value.h
+..\obj\named_value.o: ..\awtk\src\tkc/value.h

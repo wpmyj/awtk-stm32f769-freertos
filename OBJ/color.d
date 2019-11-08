@@ -1,0 +1,16 @@
+..\obj\color.o: ..\awtk\src\tkc\color.c
+..\obj\color.o: ..\awtk\src\tkc/mem.h
+..\obj\color.o: ..\awtk\src\tkc/types_def.h
+..\obj\color.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\color.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\color.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\color.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\color.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\color.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\color.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\color.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\color.o: ..\awtk-port\awtk_config.h
+..\obj\color.o: ..\awtk\src\tkc/color.h
+..\obj\color.o: ..\awtk\src\tkc/utils.h
+..\obj\color.o: ..\awtk\src\tkc/str.h
+..\obj\color.o: ..\awtk\src\tkc/value.h

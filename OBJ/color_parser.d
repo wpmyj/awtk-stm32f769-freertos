@@ -1,0 +1,17 @@
+..\obj\color_parser.o: ..\awtk\src\tkc\color_parser.c
+..\obj\color_parser.o: ..\awtk\src\tkc\color_parser.h
+..\obj\color_parser.o: ..\awtk\src\tkc/color.h
+..\obj\color_parser.o: ..\awtk\src\tkc/types_def.h
+..\obj\color_parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\color_parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\color_parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\color_parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\color_parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\color_parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\color_parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\color_parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\color_parser.o: ..\awtk-port\awtk_config.h
+..\obj\color_parser.o: ..\awtk\src\tkc/str.h
+..\obj\color_parser.o: ..\awtk\src\tkc/value.h
+..\obj\color_parser.o: ..\awtk\src\tkc/mem.h
+..\obj\color_parser.o: ..\awtk\src\tkc/utils.h

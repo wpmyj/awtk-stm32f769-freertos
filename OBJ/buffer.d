@@ -1,0 +1,13 @@
+..\obj\buffer.o: ..\awtk\src\tkc\buffer.c
+..\obj\buffer.o: ..\awtk\src\tkc/mem.h
+..\obj\buffer.o: ..\awtk\src\tkc/types_def.h
+..\obj\buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\buffer.o: ..\awtk-port\awtk_config.h
+..\obj\buffer.o: ..\awtk\src\tkc/buffer.h

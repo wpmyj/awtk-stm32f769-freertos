@@ -1,0 +1,13 @@
+..\obj\mem.o: ..\awtk\src\tkc\mem.c
+..\obj\mem.o: ..\awtk\src\tkc/mem.h
+..\obj\mem.o: ..\awtk\src\tkc/types_def.h
+..\obj\mem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\mem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\mem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\mem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\mem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\mem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\mem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\mem.o: ..\awtk-port\awtk_config.h
+..\obj\mem.o: ..\awtk\src\tkc/time_now.h

@@ -1,0 +1,15 @@
+..\obj\tokenizer.o: ..\awtk\src\tkc\tokenizer.c
+..\obj\tokenizer.o: ..\awtk\src\tkc/utils.h
+..\obj\tokenizer.o: ..\awtk\src\tkc/str.h
+..\obj\tokenizer.o: ..\awtk\src\tkc/value.h
+..\obj\tokenizer.o: ..\awtk\src\tkc/types_def.h
+..\obj\tokenizer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\tokenizer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\tokenizer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\tokenizer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\tokenizer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\tokenizer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tokenizer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\tokenizer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\tokenizer.o: ..\awtk-port\awtk_config.h
+..\obj\tokenizer.o: ..\awtk\src\tkc/tokenizer.h

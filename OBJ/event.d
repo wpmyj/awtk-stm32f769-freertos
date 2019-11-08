@@ -1,0 +1,15 @@
+..\obj\event.o: ..\awtk\src\tkc\event.c
+..\obj\event.o: ..\awtk\src\tkc/mem.h
+..\obj\event.o: ..\awtk\src\tkc/types_def.h
+..\obj\event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\event.o: ..\awtk-port\awtk_config.h
+..\obj\event.o: ..\awtk\src\tkc/event.h
+..\obj\event.o: ..\awtk\src\tkc/value.h
+..\obj\event.o: ..\awtk\src\tkc/time_now.h

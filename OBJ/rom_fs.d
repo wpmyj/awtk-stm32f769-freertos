@@ -1,0 +1,16 @@
+..\obj\rom_fs.o: ..\awtk\src\base\rom_fs.c
+..\obj\rom_fs.o: ..\awtk\src\tkc/mem.h
+..\obj\rom_fs.o: ..\awtk\src\tkc/types_def.h
+..\obj\rom_fs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\rom_fs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\rom_fs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\rom_fs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\rom_fs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\rom_fs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\rom_fs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\rom_fs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\rom_fs.o: ..\awtk-port\awtk_config.h
+..\obj\rom_fs.o: ..\awtk\src\base/rom_fs.h
+..\obj\rom_fs.o: ..\awtk\src\base/types_def.h
+..\obj\rom_fs.o: ..\awtk\src\base/assets_manager.h
+..\obj\rom_fs.o: ..\awtk\src\tkc/darray.h

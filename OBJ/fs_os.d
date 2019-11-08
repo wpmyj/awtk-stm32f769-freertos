@@ -1,0 +1,12 @@
+..\obj\fs_os.o: ..\awtk\src\platforms\raw\fs_os.c
+..\obj\fs_os.o: ..\awtk\src\tkc/fs.h
+..\obj\fs_os.o: ..\awtk\src\tkc/types_def.h
+..\obj\fs_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\fs_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\fs_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\fs_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\fs_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\fs_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\fs_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\fs_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\fs_os.o: ..\awtk-port\awtk_config.h

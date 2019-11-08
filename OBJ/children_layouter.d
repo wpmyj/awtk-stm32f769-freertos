@@ -1,0 +1,16 @@
+..\obj\children_layouter.o: ..\awtk\src\base\children_layouter.c
+..\obj\children_layouter.o: ..\awtk\src\base/children_layouter.h
+..\obj\children_layouter.o: ..\awtk\src\tkc/str.h
+..\obj\children_layouter.o: ..\awtk\src\tkc/value.h
+..\obj\children_layouter.o: ..\awtk\src\tkc/types_def.h
+..\obj\children_layouter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\children_layouter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\children_layouter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\children_layouter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\children_layouter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\children_layouter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\children_layouter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\children_layouter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\children_layouter.o: ..\awtk-port\awtk_config.h
+..\obj\children_layouter.o: ..\awtk\src\tkc/value.h
+..\obj\children_layouter.o: ..\awtk\src\base/types_def.h

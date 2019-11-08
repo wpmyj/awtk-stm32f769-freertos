@@ -1,0 +1,13 @@
+..\obj\mutex_null.o: ..\awtk\src\platforms\raw\mutex_null.c
+..\obj\mutex_null.o: ..\awtk\src\tkc/mem.h
+..\obj\mutex_null.o: ..\awtk\src\tkc/types_def.h
+..\obj\mutex_null.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\mutex_null.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\mutex_null.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\mutex_null.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\mutex_null.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\mutex_null.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mutex_null.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\mutex_null.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\mutex_null.o: ..\awtk-port\awtk_config.h
+..\obj\mutex_null.o: ..\awtk\src\tkc/mutex.h

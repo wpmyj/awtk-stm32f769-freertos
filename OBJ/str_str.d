@@ -1,0 +1,12 @@
+..\obj\str_str.o: ..\awtk\src\tkc\str_str.c
+..\obj\str_str.o: ..\awtk\src\tkc/str_str.h
+..\obj\str_str.o: ..\awtk\src\tkc/types_def.h
+..\obj\str_str.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\str_str.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\str_str.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\str_str.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\str_str.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\str_str.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\str_str.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\str_str.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\str_str.o: ..\awtk-port\awtk_config.h

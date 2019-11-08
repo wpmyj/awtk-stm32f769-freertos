@@ -1,0 +1,13 @@
+..\obj\velocity.o: ..\awtk\src\base\velocity.c
+..\obj\velocity.o: ..\awtk\src\base/velocity.h
+..\obj\velocity.o: ..\awtk\src\base/types_def.h
+..\obj\velocity.o: ..\awtk\src\tkc/types_def.h
+..\obj\velocity.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\velocity.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\velocity.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\velocity.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\velocity.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\velocity.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\velocity.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\velocity.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\velocity.o: ..\awtk-port\awtk_config.h

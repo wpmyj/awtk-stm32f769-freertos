@@ -1,0 +1,16 @@
+..\obj\emitter.o: ..\awtk\src\tkc\emitter.c
+..\obj\emitter.o: ..\awtk\src\tkc/mem.h
+..\obj\emitter.o: ..\awtk\src\tkc/types_def.h
+..\obj\emitter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\emitter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\emitter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\emitter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\emitter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\emitter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\emitter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\emitter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\emitter.o: ..\awtk-port\awtk_config.h
+..\obj\emitter.o: ..\awtk\src\tkc/emitter.h
+..\obj\emitter.o: ..\awtk\src\tkc/event.h
+..\obj\emitter.o: ..\awtk\src\tkc/value.h
+..\obj\emitter.o: ..\awtk\src\tkc/time_now.h

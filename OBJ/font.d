@@ -1,0 +1,14 @@
+..\obj\font.o: ..\awtk\src\base\font.c
+..\obj\font.o: ..\awtk\src\tkc/mem.h
+..\obj\font.o: ..\awtk\src\tkc/types_def.h
+..\obj\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\font.o: ..\awtk-port\awtk_config.h
+..\obj\font.o: ..\awtk\src\base/font.h
+..\obj\font.o: ..\awtk\src\base/types_def.h

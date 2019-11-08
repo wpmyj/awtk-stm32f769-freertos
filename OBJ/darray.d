@@ -1,0 +1,16 @@
+..\obj\darray.o: ..\awtk\src\tkc\darray.c
+..\obj\darray.o: ..\awtk\src\tkc/darray.h
+..\obj\darray.o: ..\awtk\src\tkc/types_def.h
+..\obj\darray.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\darray.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\darray.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\darray.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\darray.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\darray.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\darray.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\darray.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\darray.o: ..\awtk-port\awtk_config.h
+..\obj\darray.o: ..\awtk\src\tkc/utils.h
+..\obj\darray.o: ..\awtk\src\tkc/str.h
+..\obj\darray.o: ..\awtk\src\tkc/value.h
+..\obj\darray.o: ..\awtk\src\tkc/mem.h

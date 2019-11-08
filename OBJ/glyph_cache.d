@@ -1,0 +1,16 @@
+..\obj\glyph_cache.o: ..\awtk\src\base\glyph_cache.c
+..\obj\glyph_cache.o: ..\awtk\src\tkc/mem.h
+..\obj\glyph_cache.o: ..\awtk\src\tkc/types_def.h
+..\obj\glyph_cache.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\glyph_cache.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\glyph_cache.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\glyph_cache.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\glyph_cache.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\glyph_cache.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\glyph_cache.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\glyph_cache.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\glyph_cache.o: ..\awtk-port\awtk_config.h
+..\obj\glyph_cache.o: ..\awtk\src\tkc/time_now.h
+..\obj\glyph_cache.o: ..\awtk\src\base/glyph_cache.h
+..\obj\glyph_cache.o: ..\awtk\src\base/font.h
+..\obj\glyph_cache.o: ..\awtk\src\base/types_def.h

@@ -1,0 +1,16 @@
+..\obj\font_loader.o: ..\awtk\src\base\font_loader.c
+..\obj\font_loader.o: ..\awtk\src\base/font_loader.h
+..\obj\font_loader.o: ..\awtk\src\base/font.h
+..\obj\font_loader.o: ..\awtk\src\base/types_def.h
+..\obj\font_loader.o: ..\awtk\src\tkc/types_def.h
+..\obj\font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\font_loader.o: ..\awtk-port\awtk_config.h
+..\obj\font_loader.o: ..\awtk\src\base/assets_manager.h
+..\obj\font_loader.o: ..\awtk\src\tkc/darray.h

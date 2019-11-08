@@ -1,0 +1,16 @@
+..\obj\slist.o: ..\awtk\src\tkc\slist.c
+..\obj\slist.o: ..\awtk\src\tkc/mem.h
+..\obj\slist.o: ..\awtk\src\tkc/types_def.h
+..\obj\slist.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\slist.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\slist.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\slist.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\slist.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\slist.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\slist.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\slist.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\slist.o: ..\awtk-port\awtk_config.h
+..\obj\slist.o: ..\awtk\src\tkc/utils.h
+..\obj\slist.o: ..\awtk\src\tkc/str.h
+..\obj\slist.o: ..\awtk\src\tkc/value.h
+..\obj\slist.o: ..\awtk\src\tkc/slist.h

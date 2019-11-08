@@ -1,0 +1,13 @@
+..\obj\rect.o: ..\awtk\src\tkc\rect.c
+..\obj\rect.o: ..\awtk\src\tkc/mem.h
+..\obj\rect.o: ..\awtk\src\tkc/types_def.h
+..\obj\rect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\rect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\rect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\rect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\rect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\rect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\rect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\rect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\rect.o: ..\awtk-port\awtk_config.h
+..\obj\rect.o: ..\awtk\src\tkc/rect.h

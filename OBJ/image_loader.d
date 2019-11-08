@@ -1,0 +1,17 @@
+..\obj\image_loader.o: ..\awtk\src\base\image_loader.c
+..\obj\image_loader.o: ..\awtk\src\base/image_loader.h
+..\obj\image_loader.o: ..\awtk\src\base/bitmap.h
+..\obj\image_loader.o: ..\awtk\src\tkc/color.h
+..\obj\image_loader.o: ..\awtk\src\tkc/types_def.h
+..\obj\image_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\image_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\image_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\image_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\image_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\image_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\image_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\image_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\image_loader.o: ..\awtk-port\awtk_config.h
+..\obj\image_loader.o: ..\awtk\src\base/types_def.h
+..\obj\image_loader.o: ..\awtk\src\base/assets_manager.h
+..\obj\image_loader.o: ..\awtk\src\tkc/darray.h

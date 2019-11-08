@@ -1,0 +1,12 @@
+..\obj\easing.o: ..\awtk\src\tkc\easing.c
+..\obj\easing.o: ..\awtk\src\tkc/easing.h
+..\obj\easing.o: ..\awtk\src\tkc/types_def.h
+..\obj\easing.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\easing.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\easing.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\easing.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\easing.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\easing.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\easing.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\easing.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\easing.o: ..\awtk-port\awtk_config.h

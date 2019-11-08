@@ -1,0 +1,17 @@
+..\obj\clip_board_default.o: ..\awtk\src\clip_board\clip_board_default.c
+..\obj\clip_board_default.o: ..\awtk\src\tkc/mem.h
+..\obj\clip_board_default.o: ..\awtk\src\tkc/types_def.h
+..\obj\clip_board_default.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\clip_board_default.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\clip_board_default.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\wchar.h
+..\obj\clip_board_default.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\clip_board_default.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\clip_board_default.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\clip_board_default.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\clip_board_default.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\clip_board_default.o: ..\awtk-port\awtk_config.h
+..\obj\clip_board_default.o: ..\awtk\src\tkc/str.h
+..\obj\clip_board_default.o: ..\awtk\src\tkc/value.h
+..\obj\clip_board_default.o: ..\awtk\src\clip_board/clip_board_default.h
+..\obj\clip_board_default.o: ..\awtk\src\base/clip_board.h
+..\obj\clip_board_default.o: ..\awtk\src\base/types_def.h
